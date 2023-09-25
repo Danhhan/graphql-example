@@ -1,0 +1,10 @@
+{
+	"name": "react-graphql",
+	"version": "1.0.0",
+	"license": "MIT",
+	"type": "module",
+	"dependencies": {
+		"@apollo/server": "^4.9.3",
+		"graphql": "^16.8.1"
+	}
+}
